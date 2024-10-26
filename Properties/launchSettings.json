@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GPXDistCheck": {
+      "commandName": "Project",
+      "commandLineArgs": "\"d:\\Other\\Ramans\\Trophy\\Zubry24_S2_TR-0.gpx\" \"d:\\Other\\Ramans\\Trophy\\14-31 005 TR-0.gpx\""
+    }
+  }
+}
